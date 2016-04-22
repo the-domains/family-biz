@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Family Biz]]></title>
         <description><![CDATA[Family Biz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/family-biz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 17:45:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 17:45:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/family-biz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Legacy]]></title>
+            <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/5e2a5c09-0300-491a-b88b-7325b6396f35.jpg">]]></description>
+            <link>https://thegrid.ai/family-biz/legacy/index.html</link>
+            <guid isPermaLink="false">6ad355ef-b956-4b06-bc5e-aa545168b05e</guid>
+            <pubDate>Fri, 22 Apr 2016 17:45:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Figli]]></title>
             <description><![CDATA[<img src="http://the-grid-user-content.s3-us-west-2.amazonaws.com/a6fe67a4-9870-4bac-b0b9-38df4e7bc565.jpg">]]></description>
